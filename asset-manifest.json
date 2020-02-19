@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.042c12a4.chunk.css",
+    "main.js": "./static/js/main.384fbc1f.chunk.js",
+    "main.js.map": "./static/js/main.384fbc1f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.30e857ea.js",
+    "runtime-main.js.map": "./static/js/runtime-main.30e857ea.js.map",
+    "static/css/2.8a92a76a.chunk.css": "./static/css/2.8a92a76a.chunk.css",
+    "static/js/2.001c111b.chunk.js": "./static/js/2.001c111b.chunk.js",
+    "static/js/2.001c111b.chunk.js.map": "./static/js/2.001c111b.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.e26b3f36177d75a8c7b3a18fec958dd5.js": "./precache-manifest.e26b3f36177d75a8c7b3a18fec958dd5.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.8a92a76a.chunk.css.map": "./static/css/2.8a92a76a.chunk.css.map",
+    "static/css/main.042c12a4.chunk.css.map": "./static/css/main.042c12a4.chunk.css.map",
+    "static/js/2.001c111b.chunk.js.LICENSE.txt": "./static/js/2.001c111b.chunk.js.LICENSE.txt",
+    "static/media/logo_cchdo.svg": "./static/media/logo_cchdo.f69bc2cf.svg",
+    "static/media/logo_clivar.svg": "./static/media/logo_clivar.a03560e0.svg",
+    "static/media/logo_noaa.svg": "./static/media/logo_noaa.568ae83f.svg",
+    "static/media/logo_nsf.svg": "./static/media/logo_nsf.f34aa76e.svg",
+    "static/media/logo_sio_color.svg": "./static/media/logo_sio_color.e5d8a89c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30e857ea.js",
+    "static/css/2.8a92a76a.chunk.css",
+    "static/js/2.001c111b.chunk.js",
+    "static/css/main.042c12a4.chunk.css",
+    "static/js/main.384fbc1f.chunk.js"
+  ]
+}
